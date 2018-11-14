@@ -47,7 +47,7 @@ se lisant *taberu* et signifiant « manger », le caractère présenté précéd
 
 **食堂**
 
-se lisant *shokudо̄* et signifiant « cafétéria », le caractère se lit *shoku*. 
+se lisant *shokudou* et signifiant « cafétéria », le caractère se lit *shoku*. 
 
 Ce phénomène se reproduit dans la majorité des kanjis, bien que certains n'ont qu'une seule prononciation, comme celui-ci :
 
