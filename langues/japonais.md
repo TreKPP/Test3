@@ -161,7 +161,7 @@ Les katakanas sont utilisés principalement pour les mots d'origine étrangère,
 
 ### On utilise les trois systèmes en même temps ou un seul à la fois? 
 
-Les trois systèmes sont utilisés en même temps dans une phrase. Les différents systèmes permettent de séparer les mots plus facilement, puisque qu'il n'y a pas d'espace en japonais. Exemple :
+Les trois systèmes sont utilisés en même temps dans une phrase. Les différents systèmes permettent de séparer les mots plus facilement, puisque qu'il n'y a pas d'espace en japonais. Exemple (Kanjis en vert, hiraganas en rouge, katakanas en bleu): 
 
 <span style="color:green">私</span><span style="color:red">は</span><span style="color:blue">コーヒー</span><span style="color:red">を</span><span style="color:green">飲</span><span style="color:red">んでいます</span>。(<span style="color:green">Watashi</span> <span style="color:red">wa</span> <span style="color:blue">koohii</span> <span style="color:red">o</span> <span style="color:green">no</span><span style="color:red">ndeimasu</span>) signifiant « Je bois du café ».
 
