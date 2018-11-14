@@ -12,7 +12,7 @@ Voici les langues proposées :
 
 - Langues romanes
 - Allemand
-- [Japonais (Utilisé pour les tests)](japonais.md)
+- [Japonais (Utilisé pour les tests)](langues/japonais.md)
 - Coréen
 - Mandarin
 - Arabe
