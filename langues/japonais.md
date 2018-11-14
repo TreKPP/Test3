@@ -55,6 +55,18 @@ Ce phénomène se reproduit dans la majorité des kanjis, bien que certains n'on
 
 se lisant toujours *den* et signifiant « électricité ».
 
+Les kanjis sont utilisés dans la majorités des noms communs et propres en japonais, ainsi que dans le début des verbes.
+
+##### Exemples (Kanjis en vert)
+
+<span style="color:green">知</span>る (shiru) signifiant « savoir ».
+
+<span style="color:green">篠崎知</span> (Shinozaki) est un nom de famille.
+
+<span style="color:green">竜二知</span> (Ryuuji) est un prénom masculin.
+
+<span style="color:green">携帯電話知</span> (keitaidenwa) signifiant « téléphone cellulaire ».
+
 ### Les kanas
 
 Les kanas se divisent en deux grandes familles : Les hiraganas, les katakanas. Les deux alphabets se lisent de la même façon mais ont des usages différents. Contrairement aux kanjis, les kanas sont phonétiques, c'est-à-dire qu'un kana se lit toujours de la même façon et démontre un son et non un mot. Il y a 71 hiraganas et 71 katakanas, incluant les kanas accentués.
@@ -138,6 +150,20 @@ Certains caractères ont des prononciations irrégulières :
 - Du (ヅ) -> Dzu
 
 Les katakanas sont utilisés principalement pour les mots d'origine étrangère, les noms d'animaux et les onomatopées.
+
+##### Exemples (Katakanas en bleu)
+
+<span style="color:blue">ドキドキ</span> (dokidoki) imitant le son du coeur qui bat.
+
+<span style="color:blue">ウサギ</span> (usagi) signifiant « lapin »
+
+<span style="color:blue">コーヒー</span> (koohii) signifiant « café » (vient de *coffee* en anglais).
+
+### On utilise les trois systèmes en même temps ou un seul à la fois? 
+
+Les trois systèmes sont utilisés en même temps dans une phrase. Les différents systèmes permettent de séparer les mots plus facilement, puisque qu'il n'y a pas d'espace en japonais. Exemple :
+
+<span style="color:green">私</span><span style="color:red">は</span><span style="color:blue">コーヒー</span><span style="color:red">を</span><span style="color:green">飲</span><span style="color:red">んでいます</span>。(<span style="color:green">Watashi</span> <span style="color:red">wa</span> <span style="color:blue">koohii</span> <span style="color:red">o</span> <span style="color:green">no</span><span style="color:red">ndeimasu</span>) signifiant « Je bois du café ».
 
 ## Parler à son patron ou son meilleur ami... Une différence importante!
 
