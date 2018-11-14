@@ -67,7 +67,7 @@ Les kanjis sont utilisés dans la majorités des noms communs et propres en japo
 
 <span style="color:green">携帯電話</span> (keitaidenwa) signifiant « téléphone cellulaire ».
 
-### Les kanas
+### Deux alphabets phonétiques! 
 
 Les kanas se divisent en deux grandes familles : Les hiraganas, les katakanas. Les deux alphabets se lisent de la même façon mais ont des usages différents. Contrairement aux kanjis, les kanas sont phonétiques, c'est-à-dire qu'un kana se lit toujours de la même façon et démontre un son et non un mot. Il y a 71 hiraganas et 71 katakanas, incluant les kanas accentués.
 
