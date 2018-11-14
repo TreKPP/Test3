@@ -61,11 +61,11 @@ Les kanjis sont utilisés dans la majorités des noms communs et propres en japo
 
 <span style="color:green">知</span>る (shiru) signifiant « savoir ».
 
-<span style="color:green">篠崎知</span> (Shinozaki) est un nom de famille.
+<span style="color:green">篠崎</span> (Shinozaki) est un nom de famille.
 
-<span style="color:green">竜二知</span> (Ryuuji) est un prénom masculin.
+<span style="color:green">竜二</span> (Ryuuji) est un prénom masculin.
 
-<span style="color:green">携帯電話知</span> (keitaidenwa) signifiant « téléphone cellulaire ».
+<span style="color:green">携帯電話</span> (keitaidenwa) signifiant « téléphone cellulaire ».
 
 ### Les kanas
 
