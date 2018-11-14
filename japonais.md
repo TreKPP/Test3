@@ -1,6 +1,6 @@
 # Exemple d'organisation d'une page
 ---
-[**Retour à l'index**](Test3/indexLangues.md)
+[**Retour à l'index**](indexLangues.md)
 # La langue japonaise
 
 ## En bref
