@@ -57,7 +57,7 @@ se lisant toujours *den* et signifiant « électricité ».
 
 ### Les kanas
 
-Les kanas se divisent en deux grandes familles : Les hiraganas, les katakanas. Les deux alphabets se lisent de la même façon mais ont des usages différents. Contrairement aux kanjis, les kanas sont phonétiques, c'est-à-dire qu'un kana se lit toujours de la même façon et démontre un son et non un mot. 
+Les kanas se divisent en deux grandes familles : Les hiraganas, les katakanas. Les deux alphabets se lisent de la même façon mais ont des usages différents. Contrairement aux kanjis, les kanas sont phonétiques, c'est-à-dire qu'un kana se lit toujours de la même façon et démontre un son et non un mot. Il y a 71 hiraganas et 71 katakanas, incluant les kanas accentués.
 
 #### Hiragana
 
@@ -94,7 +94,13 @@ Certains caractères ont des prononciations irrégulières :
 - Di (ぢ) -> Ji
 - Du (ず) -> Dzu
 
-Les hiraganas sont utilisés pour les mots d'origine japonaise qui n'ont pas de kanjis et pour les conjugaisons des verbes principalement.
+Les hiraganas sont utilisés pour les mots d'origine japonaise qui n'ont pas de kanji(s), dont le ou les kanji(s) sont désuets et pour les conjugaisons des verbes principalement.
+
+##### Exemples (Hiragana en rouge)
+
+<span style="color:red">あなた</span> (Anata) signifiant « tu ».
+
+行<span style="color:red">きます</span> (Ikimasu) signifiant « je vais ».
 
 #### Katakana 
 
@@ -131,7 +137,7 @@ Certains caractères ont des prononciations irrégulières :
 - Di (ヂ) -> Ji
 - Du (ヅ) -> Dzu
 
-Les katakanas sont utilisés principalement pour les mots d'origine étrangère et les onomatopées.
+Les katakanas sont utilisés principalement pour les mots d'origine étrangère, les noms d'animaux et les onomatopées.
 
 ## Parler à son patron ou son meilleur ami... Une différence importante!
 
