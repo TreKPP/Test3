@@ -277,7 +277,59 @@ Bien que seulement deux façons de s'excuser ont été présentées, il y en a b
 | Formel | 申し訳ございません | Moushiwake gozaimasen
 | Formel | 申し訳ございませんでした | Moushiwake gozaimasen deshita
 
+## Un petit bonus : Un aperçu sur le vocabulaire!
 
+Quelques aliments : 
+
+|Français|Japonais|Translittération|
+|---|---|---|
+|Pomme|りんご|ringo
+|Banane|バナナ|banana
+|Orange|オレンジ|orenji
+|Fraise|いちご|ichigo
+|Pain|パン|pan
+|Viande|肉|niku
+|Lait|ミルク|miruku
+|Lait|牛乳|gyuunyuu
+|Hamburger|ハンバーガー|hanbaagaa
+|Hot-dog|ホットドッグ|hottodoggu
+|Crème glacée|アイスクリーム|aisukuriimu
+|Chocolat|チョコレート|chocoreeto
+|Sushi|寿司|sushi
+|Riz|ご飯|gohan
+
+Quelques animaux : 
+
+|Français|Japonais|Translittération|
+|---|---|---|
+|Chat|猫|neko
+|Chien|犬|inu
+|Oiseau|鳥|tori
+|Lapin|ウサギ|usagi
+|Vache|牛|ushi
+|Cochon|豚|buta
+|Souris|ネズミ|nezumi
+|Girafe|キリン|kirin
+|Singe|さる|saru
+|Lion|ライオン|raion
+|Poisson|魚|sakana
+
+Quelques couleurs : 
+
+|Français|Japonais|Translittération|
+|---|---|---|
+|Blanc|白|shiro
+|Noir|黒|kuro
+|Bleu|青|ao
+|Jaune|黄色|kiiro
+|Rouge|赤|aka
+|Violet|紫|murasaki
+|Orange|オレンジ|orenji
+|Vert|緑|midori
+|Rose|ピンク|pinku
+|Gris|灰色|haiiro
+|Or|金色|kin'iro
+|Argent|銀色|gin'iro
 
 <!-- <span style="color:blue">abc</span> -->
 
